@@ -36,4 +36,4 @@ You can view the source code of [LocalShiny R package ](https://github.com/local
 Should you have questions about how LocalShiny Web works, or how you can get your apps to run well via LocalShiny Software, or should you have news tip, suggestion, idea or think something is missing on LocalShiny, contact **localshiny@gmail.com**.
 
 --------------------------
-[host]:http://www.findn.cn:5000 "LocalShiny"
+[host]:https://github.com/localshiny/localshiny "LocalShiny"
