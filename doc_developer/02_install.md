@@ -12,6 +12,7 @@ Windows, Linux and Mac OS are currently supported.
 
 |Name	|Source |
 |-----|-------|
+
 |renv	|https://rstudio.github.io/renv/|
 |RCrul	|https://CRAN.R-project.org/package=RCurl|
 |jsonlite	|https://CRAN.R-project.org/package=jsonlites|
@@ -20,15 +21,15 @@ Windows, Linux and Mac OS are currently supported.
 
 ## 2.3 Installation
 You can install the released version of LocalShiny from GitHub with:
-```
+```r
 #install package dependencies
 install.packages(c("renv", "RCurl", "jsonlite", "zip"，"xml2"))
 
 #install.packages("devtools")
 devtools::install_github("localshiny/localshiny")
-``` r
+```
 After the package has been installed, load it into your R session.
 
-```
+```r
 library(LocalShiny)
-``` r
+```
