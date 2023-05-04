@@ -26,9 +26,9 @@ install.packages(c("renv", "RCurl", "jsonlite", "zip"，"xml2"))
 
 #install.packages("devtools")
 devtools::install_github("localshiny/localshiny")
-```r
+``` r
 After the package has been installed, load it into your R session.
 
 ```
 library(LocalShiny)
-```r
+``` r
