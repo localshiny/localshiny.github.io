@@ -14,7 +14,7 @@ The first time you sign in, LocalShiny prompts you to sign up for a LocalShiny a
 
 <div align=center><img width = '250'  src ="images/01_create.png"/></div>
 
-1) Register a new account using your username, password, and email address. Password is six or more characters, with no spaces. Then verify your email address. This verification allows you to retrieve your username or reset your password.
+2) Register a new account using your username, password, and email address. Password is six or more characters, with no spaces. Then verify your email address. This verification allows you to retrieve your username or reset your password.
 
 <div align=center><img width = '500'  src ="images/02_register.png"/></div>
 
