@@ -18,6 +18,7 @@ Windows, Linux and Mac OS are currently supported.
 | [RCrul](https://CRAN.R-project.org/package=RCurl)        | https://CRAN.R-project.org/package=RCurl     |
 | [jsonlite](https://CRAN.R-project.org/package=jsonlites) | https://CRAN.R-project.org/package=jsonlites |
 | [zip](https://CRAN.R-project.org/package=zip)            | https://CRAN.R-project.org/package=zip       |
+| [xml2](https://CRAN.R-project.org/package=xml2)          | https://CRAN.R-project.org/package=xml2      |
 
 ## 2.3 Installation
 
@@ -25,13 +26,13 @@ You can install the released version of LocalShiny from GitHub with:
 
 ```r
 #install package dependencies
-install.packages(c("renv", "RCurl", "jsonlite", "zip"))
+install.packages(c("renv", "RCurl", "jsonlite", "zip", "xml2"))
 #install.packages("devtools")
-devtools::install_github("xxx/LocalShiny")
+devtools::install_github("localshiny/localshiny")
 ```
 
 After the package has been installed, load it into your R session.
 
 ```r
-library(LocalShiny)
+library(localshiny)
 ```

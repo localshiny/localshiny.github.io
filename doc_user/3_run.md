@@ -20,5 +20,5 @@ Then select the APP you want to run, and click run button of it.
 When applications are running, they are displayed in a browser window embed within your app window. Meanwhile, notice that a sign, "listening on …", appears in the Console window while your app is running, indicating the current R session is busy running your application.
 
 Now we have a running application.
-![11_APP](11_APP.jpg)
+![11_APP](images/11_APP.jpg)
 
