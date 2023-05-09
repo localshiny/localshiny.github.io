@@ -125,7 +125,7 @@ runApp()
 ![04_testApp](images/04_testApp.png)
 If the app works, let's upload it to the LocalShiny web.
 
-3.2 Configure LocalShiny package
+## 3.2 Configure LocalShiny package
 After successful installation of the package, configure it to access your account before you deploy applications to the cloud. Once you set up an account in LocalShiny web, the database will automatically generate a contiguous sequence of characters as a token used to authorize your account. The token is listed on your account profile.
 
 ![05_token](images/05_token.png)
