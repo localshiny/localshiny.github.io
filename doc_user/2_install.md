@@ -26,6 +26,7 @@ Clicking the button App. Then go to Intall apps, scroll down to the install apps
 Enter the URL in the pop-up window,Then click get,the information will be listed. After that, click Install or Cancel to continue to install apps or abort the installation. 
 ![05_urlUI](images/05_urlUI.jpg)
 
+<span id="jump"></span>
 ## Method 3:This method is suitable for users who have downloaded APP's configuration package locally.
 
 Clicking the button App. Then go to Intall apps, scroll down to the install apps from local, and click on it.
